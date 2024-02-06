@@ -5,3 +5,4 @@
 <ul>Test 3</ul>
 
 Se ha añadido un método que muestra la fecha y la hora
+Se ha añadido una clase y métodos para ver y registrar usuarios
